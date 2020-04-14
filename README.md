@@ -1,3 +1,12 @@
+```
+git clone https://github.com/andrewvmail/overmind
+cd overmind/packages/node_modules/overmind-angular/
+npm run build
+```
+
+
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
